@@ -1,0 +1,14 @@
+{
+  "_id": "page.case-number",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.case-number--text.auto_name__10",
+      "_type": "text",
+      "hint": "A Crown Court number can be found on letters and transcripts. It will look something like: T20081234",
+      "label": "What is your Crown Court number or case number?",
+      "name": "auto_name__10"
+    }
+  ],
+  "url": "case-number"
+}

@@ -1,0 +1,31 @@
+{
+  "_id": "page.applied-before",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.applied-before--radios.auto_name__12",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.applied-before--radios.auto_name__12--radio.auto_value__16",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__16"
+        },
+        {
+          "_id": "page.applied-before--radios.auto_name__12--radio.auto_value__19",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__19"
+        }
+      ],
+      "legend": "Have you applied to us before?",
+      "name": "auto_name__12"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__20",
+    "operator": "defined"
+  },
+  "url": "applied-before"
+}

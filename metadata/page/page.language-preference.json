@@ -1,0 +1,18 @@
+{
+  "_id": "page.language-preference",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.language-preference--text.auto_name__29",
+      "_type": "text",
+      "label": "What language would you prefer to use to tell us about your case?",
+      "name": "auto_name__29"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__28",
+    "operator": "is",
+    "value": "auto_value__23"
+  },
+  "url": "language-preference"
+}

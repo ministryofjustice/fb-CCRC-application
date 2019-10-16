@@ -1,0 +1,12 @@
+{
+  "_id": "page.how-to-appeal",
+  "_type": "page.exit",
+  "heading": "How to appeal",
+  "lede": "Appealing direct to the court is usually much quicker than applying to the CCRC. Visit GOV.UK and search for \"appeal conviction or sentence\" for details.",
+  "show": {
+    "identifier": "auto_name__2",
+    "operator": "is",
+    "value": "no"
+  },
+  "url": "how-to-appeal"
+}

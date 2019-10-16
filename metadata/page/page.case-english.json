@@ -1,0 +1,27 @@
+{
+  "_id": "page.case-english",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.case-english--radios.auto_name__28",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.case-english--radios.auto_name__28--radio.auto_value__22",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__22"
+        },
+        {
+          "_id": "page.case-english--radios.auto_name__28--radio.auto_value__23",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__23"
+        }
+      ],
+      "legend": "Can you tell us about your case in English?",
+      "name": "auto_name__28"
+    }
+  ],
+  "url": "case-english"
+}

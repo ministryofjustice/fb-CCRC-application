@@ -1,0 +1,18 @@
+{
+  "_id": "page.what-went-wrong",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.what-went-wrong--textarea.auto_name__30",
+      "_type": "textarea",
+      "hint": "Tell us what you think went wrong in your case and what is new. Include everything you think we need to know to look at your case.",
+      "label": "Tell us what you think went wrong in your case",
+      "name": "auto_name__30"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__28",
+    "operator": "defined"
+  },
+  "url": "what-went-wrong"
+}

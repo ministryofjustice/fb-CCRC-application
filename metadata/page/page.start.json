@@ -1,9 +1,12 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "body": "**This is the main content section of your start page**\r\n\r\n[Edit this page](/edit) with content for your own service.\r\n\r\n## Adding more content\r\n\r\nYou can add multiple headings, links and paragraphs - all in this one content section.\r\n\r\nUse [markdown](https://www.gov.uk/guidance/how-to-publish-on-gov-uk/markdown) to format headings, bullet lists and links.",
-  "heading": "This is your start page heading",
-  "lede": "This is your start page first paragraph. You can only have one paragraph here.",
-  "steps": [],
+  "body": "You need to have lost an appeal before applying to the CCRC. We have to find something new and important to send your case for a fresh appeal.\r\n\r\nThe CCRC's job is to look at your case independently. This means we do not act as your lawyer. It also means we are independent of the police, the prosecution, and the courts. \r\n\r\nIt costs nothing to make an application to the CCRC and your sentence cannot be increased if we send your case for appeal.",
+  "heading": "Application to have your criminal case reviewed",
+  "lede": "The CCRC can look into cases where someone who has lost their Appeal still thinks they were wrongly convicted or given the wrong sentence.",
+  "steps": [
+    "page.full-name",
+    "page.appeal-history"
+  ],
   "url": "/"
 }

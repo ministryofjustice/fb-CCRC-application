@@ -1,0 +1,32 @@
+{
+  "_id": "page.appeal-type",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.appeal-type--radios.auto_name__3",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.appeal-type--radios.auto_name__3--radio.auto_value__2",
+          "_type": "radio",
+          "label": "Conviction",
+          "value": "auto_value__2"
+        },
+        {
+          "_id": "page.appeal-type--radios.auto_name__3--radio.auto_value__3",
+          "_type": "radio",
+          "label": "Sentence",
+          "value": "auto_value__3"
+        }
+      ],
+      "legend": "Appeal type",
+      "name": "auto_name__3"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__2",
+    "operator": "is",
+    "value": "Yes"
+  },
+  "url": "appeal-type"
+}

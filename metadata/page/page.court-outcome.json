@@ -1,0 +1,27 @@
+{
+  "_id": "page.court-outcome",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.court-outcome--radios.auto_name__16",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.court-outcome--radios.auto_name__16--radio.auto_value__12",
+          "_type": "radio",
+          "label": "guilty",
+          "value": "auto_value__12"
+        },
+        {
+          "_id": "page.court-outcome--radios.auto_name__16--radio.auto_value__14",
+          "_type": "radio",
+          "label": "not guilty",
+          "value": "auto_value__14"
+        }
+      ],
+      "legend": "At court did you say you were:",
+      "name": "auto_name__16"
+    }
+  ],
+  "url": "court-outcome"
+}

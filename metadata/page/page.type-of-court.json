@@ -1,0 +1,44 @@
+{
+  "_id": "page.type-of-court",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.type-of-court--radios.auto_name__5",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.type-of-court--radios.auto_name__5--radio.auto_value__5",
+          "_type": "radio",
+          "label": "Court of Appeal",
+          "value": "auto_value__5"
+        },
+        {
+          "_id": "page.type-of-court--radios.auto_name__5--radio.auto_value__6",
+          "_type": "radio",
+          "label": "Crown Court",
+          "value": "auto_value__6"
+        },
+        {
+          "_id": "page.type-of-court--radios.auto_name__5--radio.auto_value__7",
+          "_type": "radio",
+          "label": "County Court",
+          "value": "auto_value__7"
+        },
+        {
+          "_id": "page.type-of-court--radios.auto_name__5--radio.auto_value__8",
+          "_type": "radio",
+          "label": "Court Martial / Appeal Court",
+          "value": "auto_value__8"
+        }
+      ],
+      "legend": "Which court heard the appeal?",
+      "name": "auto_name__5"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__4",
+    "operator": "is",
+    "value": "auto_value__1"
+  },
+  "url": "type-of-court"
+}

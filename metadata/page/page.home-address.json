@@ -1,0 +1,18 @@
+{
+  "_id": "page.home-address",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.home-address--textarea.auto_name__25",
+      "_type": "textarea",
+      "label": "What is your address?",
+      "name": "auto_name__25"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__20",
+    "operator": "is",
+    "value": "auto_value__16"
+  },
+  "url": "home-address"
+}

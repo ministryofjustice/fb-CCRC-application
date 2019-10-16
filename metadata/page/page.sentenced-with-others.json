@@ -1,0 +1,27 @@
+{
+  "_id": "page.sentenced-with-others",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.sentenced-with-others--radios.auto_name__13",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.sentenced-with-others--radios.auto_name__13--radio.auto_value__12",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__12"
+        },
+        {
+          "_id": "page.sentenced-with-others--radios.auto_name__13--radio.auto_value__13",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__13"
+        }
+      ],
+      "legend": "Were you convicted with other people?",
+      "name": "auto_name__13"
+    }
+  ],
+  "url": "sentenced-with-others"
+}

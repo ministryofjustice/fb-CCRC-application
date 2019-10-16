@@ -1,0 +1,13 @@
+{
+  "_id": "page.sent-from-mags",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.sent-from-mags--text.auto_name__8",
+      "_type": "text",
+      "label": "If you were convicted at a Crown Court, which magistrates' court sent you there?",
+      "name": "auto_name__8"
+    }
+  ],
+  "url": "sent-from-mags"
+}

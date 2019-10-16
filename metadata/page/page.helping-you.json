@@ -1,0 +1,39 @@
+{
+  "_id": "page.helping-you",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.helping-you--radios.auto_name__31",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.helping-you--radios.auto_name__31--radio.auto_value__24",
+          "_type": "radio",
+          "label": "Yes - a solicitor or barrister",
+          "value": "auto_value__24"
+        },
+        {
+          "_id": "page.helping-you--radios.auto_name__31--radio.auto_value__25",
+          "_type": "radio",
+          "label": "Yes - a friend or relative",
+          "value": "auto_value__25"
+        },
+        {
+          "_id": "page.helping-you--radios.auto_name__31--radio.auto_value__26",
+          "_type": "radio",
+          "label": "Yes - other",
+          "value": "auto_value__26"
+        },
+        {
+          "_id": "page.helping-you--radios.auto_name__31--radio.auto_value__27",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__27"
+        }
+      ],
+      "legend": "Do you have someone helping you with your application to us?",
+      "name": "auto_name__31"
+    }
+  ],
+  "url": "helping-you"
+}

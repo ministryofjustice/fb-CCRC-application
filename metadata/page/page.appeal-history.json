@@ -1,0 +1,65 @@
+{
+  "_id": "page.appeal-history",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.appeal-history--radios.auto_name__2",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.appeal-history--radios.auto_name__2--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "Yes"
+        },
+        {
+          "_id": "page.appeal-history--radios.auto_name__2--radio.auto_value__1--2",
+          "_type": "radio",
+          "label": "No",
+          "value": "no"
+        }
+      ],
+      "legend": "Have you asked the court for an appeal?",
+      "name": "auto_name__2"
+    }
+  ],
+  "enableSteps": true,
+  "steps": [
+    "page.appeal-type",
+    "page.how-to-appeal",
+    "page.heard-at-court",
+    "page.type-of-court",
+    "page.appeal-number",
+    "page.name-of-court",
+    "page.sent-from-mags",
+    "page.type-of-court-conviction",
+    "page.case-number",
+    "page.sentenced-with-others",
+    "page.names-of-others",
+    "page.police-force",
+    "page.court-outcome",
+    "page.offences",
+    "page.type-of-sentence",
+    "page.length-of-sentence",
+    "page.in-prison",
+    "page.prison-number",
+    "page.prison-name",
+    "page.release-date-known",
+    "page.home-address",
+    "page.phone-number",
+    "page.email-address",
+    "page.applied-before",
+    "page.special-help",
+    "page.reading-writing",
+    "page.case-english",
+    "page.language-preference",
+    "page.what-went-wrong",
+    "page.helping-you",
+    "page.contact-details",
+    "page.who-to-contact",
+    "page.other-solicitors",
+    "page.check-answers",
+    "page.confirmation"
+  ],
+  "url": "appeal-history"
+}
