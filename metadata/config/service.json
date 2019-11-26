@@ -2,7 +2,10 @@
   "_id": "service",
   "_isa": "@ministryofjustice/fb-components-core=>service",
   "_type": "config.service",
+  "attachUserSubmission": true,
+  "emailSubjectTeam": "CCRC Application",
   "name": "CCRC Application Form",
+  "pdfHeading": "CCRC Application",
   "phase": "alpha",
   "phaseText": "Alpha"
 }

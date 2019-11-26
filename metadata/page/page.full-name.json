@@ -9,5 +9,10 @@
       "name": "auto_name__1"
     }
   ],
+  "enableSteps": true,
+  "steps": [
+    "page.preferred-title",
+    "page.date-birth"
+  ],
   "url": "full-name"
 }
