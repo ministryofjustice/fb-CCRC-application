@@ -34,6 +34,8 @@
     "page.sent-from-mags",
     "page.type-of-court-conviction",
     "page.case-number",
+    "page.date-convicted",
+    "page.date-sentenced",
     "page.sentenced-with-others",
     "page.names-of-others",
     "page.police-force",

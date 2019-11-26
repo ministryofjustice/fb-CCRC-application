@@ -1,0 +1,17 @@
+{
+  "_id": "page.date-sentenced",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
+      "_id": "page.date-sentenced--text.auto_name__47",
+      "_type": "text",
+      "label": "What date were you sentenced?",
+      "name": "auto_name__47"
+    }
+  ],
+  "url": "date-sentenced"
+}
