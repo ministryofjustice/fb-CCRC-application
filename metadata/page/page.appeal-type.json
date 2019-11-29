@@ -17,6 +17,12 @@
           "_type": "radio",
           "label": "Sentence",
           "value": "auto_value__3"
+        },
+        {
+          "_id": "page.appeal-type--radios.auto_name__3--radio.auto_value__27",
+          "_type": "radio",
+          "label": "Both Conviction and Sentence",
+          "value": "auto_value__27"
         }
       ],
       "legend": "Appeal type",

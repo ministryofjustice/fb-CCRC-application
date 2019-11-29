@@ -18,13 +18,19 @@
       "_id": "page.contact-details--email.auto_name__34",
       "_type": "email",
       "label": "Email address",
-      "name": "auto_name__34"
+      "name": "auto_name__34",
+      "validation": {
+        "required": false
+      }
     },
     {
       "_id": "page.contact-details--number.auto_name__35",
       "_type": "number",
       "label": "Phone number",
-      "name": "auto_name__35"
+      "name": "auto_name__35",
+      "validation": {
+        "required": false
+      }
     }
   ],
   "heading": "What are the contact details of the person who is helping you?",
