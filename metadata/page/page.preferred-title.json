@@ -10,31 +10,31 @@
           "_id": "page.preferred-title--radios.auto_name__43--radio.auto_value__27",
           "_type": "radio",
           "label": "Mr",
-          "value": "auto_value__27"
+          "value": "Mr"
         },
         {
           "_id": "page.preferred-title--radios.auto_name__43--radio.auto_value__27--2",
           "_type": "radio",
           "label": "Ms",
-          "value": "auto_value__27"
+          "value": "Ms"
         },
         {
           "_id": "page.preferred-title--radios.auto_name__43--radio.auto_value__27--3",
           "_type": "radio",
           "label": "Miss",
-          "value": "auto_value__27"
+          "value": "Miss"
         },
         {
           "_id": "page.preferred-title--radios.auto_name__43--radio.auto_value__27--4",
           "_type": "radio",
           "label": "Mrs",
-          "value": "auto_value__27"
+          "value": "Mrs"
         },
         {
           "_id": "page.preferred-title--radios.auto_name__43--radio.auto_value__27--5",
           "_type": "radio",
           "label": "Mx",
-          "value": "auto_value__27"
+          "value": "Mx"
         }
       ],
       "legend": "Select from the list",

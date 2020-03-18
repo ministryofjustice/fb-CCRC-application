@@ -3,10 +3,9 @@
   "_type": "page.singlequestion",
   "components": [
     {
-      "_id": "page.date-birth--text.auto_name__42",
-      "_type": "text",
-      "hint": "For example: 12 December 1995",
-      "label": "What is your date of birth?",
+      "_id": "page.date-birth--date.auto_name__42",
+      "_type": "date",
+      "label": "Enter your date of birth",
       "name": "auto_name__42"
     }
   ],
