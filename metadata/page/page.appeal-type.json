@@ -9,23 +9,23 @@
         {
           "_id": "page.appeal-type--radios.auto_name__3--radio.auto_value__2",
           "_type": "radio",
-          "label": "Conviction",
+          "label": "Your conviction",
           "value": "auto_value__2"
         },
         {
           "_id": "page.appeal-type--radios.auto_name__3--radio.auto_value__3",
           "_type": "radio",
-          "label": "Sentence",
+          "label": "Your sentence",
           "value": "auto_value__3"
         },
         {
           "_id": "page.appeal-type--radios.auto_name__3--radio.auto_value__27",
           "_type": "radio",
-          "label": "Both Conviction and Sentence",
+          "label": "Both conviction and sentence",
           "value": "auto_value__27"
         }
       ],
-      "legend": "Appeal type",
+      "legend": "Did you ask the court for an appeal against",
       "name": "auto_name__3"
     }
   ],

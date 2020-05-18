@@ -5,10 +5,15 @@
     {
       "_id": "page.email-address--email.auto_name__11",
       "_type": "email",
+      "hint": "If you do not have an email address just press \"Continue\"",
       "label": "What is your email address?",
-      "name": "auto_name__11"
+      "name": "auto_name__11",
+      "validation": {
+        "required": false
+      }
     }
   ],
+  "sectionHeading": "Information about your case",
   "show": {
     "identifier": "auto_name__20",
     "operator": "is",

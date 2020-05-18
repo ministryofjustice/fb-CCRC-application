@@ -1,0 +1,20 @@
+{
+  "_id": "page.release-date",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.release-date--date.auto_name__60",
+      "_type": "date",
+      "hint": "For example 20 / 12 / 2022",
+      "label": "When is the applicant due to be released?",
+      "name": "auto_name__60"
+    }
+  ],
+  "sectionHeading": "Information about your case",
+  "show": {
+    "identifier": "auto_name__23",
+    "operator": "is",
+    "value": "auto_value__17"
+  },
+  "url": "release-date"
+}

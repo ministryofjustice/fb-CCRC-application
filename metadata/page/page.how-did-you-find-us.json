@@ -1,0 +1,70 @@
+{
+  "_id": "page.how-did-you-find-us",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.how-did-you-find-us--checkboxes",
+      "_type": "checkboxes",
+      "hint": "It would help us to reach other people who might need the CCRC if we knew how you found out about us",
+      "items": [
+        {
+          "_id": "page.how-did-you-find-us--checkboxes--checkbox.auto_name__46",
+          "_type": "checkbox",
+          "label": "Prison sources (e.g. posters or prison officers)",
+          "name": "auto_name__46"
+        },
+        {
+          "_id": "page.how-did-you-find-us--checkboxes--checkbox.auto_name__48",
+          "_type": "checkbox",
+          "label": "other prisoners",
+          "name": "auto_name__48"
+        },
+        {
+          "_id": "page.how-did-you-find-us--checkboxes--checkbox.auto_name__49",
+          "_type": "checkbox",
+          "label": "Friends or family",
+          "name": "auto_name__49"
+        },
+        {
+          "_id": "page.how-did-you-find-us--checkboxes--checkbox.auto_name__50",
+          "_type": "checkbox",
+          "label": "Press, TV, or radio",
+          "name": "auto_name__50"
+        },
+        {
+          "_id": "page.how-did-you-find-us--checkboxes--checkbox.auto_name__51",
+          "_type": "checkbox",
+          "label": "Internet",
+          "name": "auto_name__51"
+        },
+        {
+          "_id": "page.how-did-you-find-us--checkboxes--checkbox.auto_name__52",
+          "_type": "checkbox",
+          "label": "Inside Time Newspaper",
+          "name": "auto_name__52"
+        },
+        {
+          "_id": "page.how-did-you-find-us--checkboxes--checkbox.auto_name__53",
+          "_type": "checkbox",
+          "label": "Solicitor or Barrister",
+          "name": "auto_name__53"
+        },
+        {
+          "_id": "page.how-did-you-find-us--checkboxes--checkbox.auto_name__54",
+          "_type": "checkbox",
+          "label": "National Prison Radio",
+          "name": "auto_name__54"
+        },
+        {
+          "_id": "page.how-did-you-find-us--checkboxes--checkbox.auto_name__55",
+          "_type": "checkbox",
+          "label": "MP",
+          "name": "auto_name__55"
+        }
+      ],
+      "legend": "How did you find out about the CCRC?"
+    }
+  ],
+  "sectionHeading": "Information about your case",
+  "url": "how-did-you-find-us"
+}

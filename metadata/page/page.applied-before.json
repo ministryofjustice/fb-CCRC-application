@@ -23,6 +23,7 @@
       "name": "auto_name__12"
     }
   ],
+  "sectionHeading": "Information about your case",
   "show": {
     "identifier": "auto_name__20",
     "operator": "defined"

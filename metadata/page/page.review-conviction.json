@@ -1,0 +1,28 @@
+{
+  "_id": "page.review-conviction",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.review-conviction--radios.auto_name__42",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.review-conviction--radios.auto_name__42--radio.auto_value__35",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__35"
+        },
+        {
+          "_id": "page.review-conviction--radios.auto_name__42--radio.auto_value__36",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__36"
+        }
+      ],
+      "legend": "Would you like us to look at your conviction?",
+      "name": "auto_name__42"
+    }
+  ],
+  "sectionHeading": "Information about your case",
+  "url": "review-conviction"
+}

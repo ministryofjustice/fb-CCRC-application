@@ -1,0 +1,29 @@
+{
+  "_id": "page.applicant",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.applicant--radios.auto_name__41",
+      "_type": "radios",
+      "hint": "If you are a representative please treat all references to \"You\" or \"Your\" as referring to the applicant e.g. Your date of birth refers to the applicant's date of birth",
+      "items": [
+        {
+          "_id": "page.applicant--radios.auto_name__41--radio.auto_value__28",
+          "_type": "radio",
+          "label": "I am the applicant",
+          "value": "auto_value__28"
+        },
+        {
+          "_id": "page.applicant--radios.auto_name__41--radio.auto_value__29",
+          "_type": "radio",
+          "label": "I am a representative",
+          "value": "auto_value__29"
+        }
+      ],
+      "legend": "Who is applying?",
+      "name": "auto_name__41"
+    }
+  ],
+  "sectionHeading": "Information about you",
+  "url": "applicant"
+}

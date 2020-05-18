@@ -5,10 +5,11 @@
     {
       "_id": "page.prison-number--text.auto_name__21",
       "_type": "text",
-      "label": "What is your prison number?",
+      "label": "What is the applicant's prison number?",
       "name": "auto_name__21"
     }
   ],
+  "sectionHeading": "Information about your case",
   "show": {
     "identifier": "auto_name__20",
     "operator": "is",

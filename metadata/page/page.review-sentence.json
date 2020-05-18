@@ -1,0 +1,28 @@
+{
+  "_id": "page.review-sentence",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.review-sentence--radios.auto_name__44",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.review-sentence--radios.auto_name__44--radio.auto_value__37",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__37"
+        },
+        {
+          "_id": "page.review-sentence--radios.auto_name__44--radio.auto_value__38",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__38"
+        }
+      ],
+      "legend": "Would you like us to look at your sentence?",
+      "name": "auto_name__44"
+    }
+  ],
+  "sectionHeading": "Information about your case",
+  "url": "review-sentence"
+}

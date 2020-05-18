@@ -1,0 +1,30 @@
+{
+  "_id": "page.your-name",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.your-name--text.auto_name__1",
+      "_type": "text",
+      "label": "First name",
+      "name": "auto_name__1"
+    },
+    {
+      "_id": "page.your-name--text.auto_name__56",
+      "_type": "text",
+      "label": "Middle name(s)",
+      "name": "auto_name__56",
+      "validation": {
+        "required": false
+      }
+    },
+    {
+      "_id": "page.your-name--text.auto_name__57",
+      "_type": "text",
+      "label": "Last name",
+      "name": "auto_name__57"
+    }
+  ],
+  "heading": "Your name",
+  "sectionHeading": "Information about you",
+  "url": "your-name"
+}

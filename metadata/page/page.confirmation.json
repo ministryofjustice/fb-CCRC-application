@@ -2,5 +2,6 @@
   "_id": "page.confirmation",
   "_type": "page.confirmation",
   "heading": "Your application has been submitted",
+  "lede": "If you provided an email address a copy of your answers will be sent to you",
   "url": "confirmation"
 }

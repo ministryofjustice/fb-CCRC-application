@@ -3,15 +3,12 @@
   "_type": "page.singlequestion",
   "components": [
     {
-      "$component": true,
-      "$control": true,
-      "$definition": true,
-      "$field": true,
-      "_id": "page.date-sentenced--text.auto_name__47",
-      "_type": "text",
-      "label": "What date were you sentenced?",
+      "_id": "page.date-sentenced--date.auto_name__47",
+      "_type": "date",
+      "label": "On what date were you sentenced?",
       "name": "auto_name__47"
     }
   ],
+  "sectionHeading": "Information about your case",
   "url": "date-sentenced"
 }

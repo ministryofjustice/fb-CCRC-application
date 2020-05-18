@@ -5,7 +5,7 @@
     {
       "_id": "page.what-went-wrong--textarea.auto_name__30",
       "_type": "textarea",
-      "hint": "Tell us what you think went wrong in your case and what is new. Include everything you think we need to know to look at your case.",
+      "hint": "Tell us here what you think went wrong in your case\r\n\r\nFor us to send your case back to the appeal court we usually have to show them something new and important which will make them think in a different way about your case.  It normally needs to be something that has not already been heard by a court.\r\n\r\nWe won’t be able to help you if you just repeat the same points that were made at your trial or appeal.\r\n\r\n\r\nInclude everything you think we need to know to look at your case.",
       "label": "Tell us what you think went wrong in your case",
       "name": "auto_name__30"
     }

@@ -1,0 +1,57 @@
+{
+  "_id": "page.title",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.title--radios.auto_name__58",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.title--radios.auto_name__58--radio.auto_value__30",
+          "_type": "radio",
+          "label": "Mr",
+          "value": "auto_value__30"
+        },
+        {
+          "_id": "page.title--radios.auto_name__58--radio.auto_value__31",
+          "_type": "radio",
+          "label": "Ms",
+          "value": "auto_value__31"
+        },
+        {
+          "_id": "page.title--radios.auto_name__58--radio.auto_value__32",
+          "_type": "radio",
+          "label": "Miss",
+          "value": "auto_value__32"
+        },
+        {
+          "_id": "page.title--radios.auto_name__58--radio.auto_value__33",
+          "_type": "radio",
+          "label": "Mrs",
+          "value": "auto_value__33"
+        },
+        {
+          "_id": "page.title--radios.auto_name__58--radio.auto_value__34",
+          "_type": "radio",
+          "label": "Mx",
+          "value": "auto_value__34"
+        }
+      ],
+      "legend": "Select from the list",
+      "name": "auto_name__58"
+    },
+    {
+      "_id": "page.title--text.auto_name__59",
+      "_type": "text",
+      "hint": "If you use none of the titles listed above please add your preferred title here",
+      "label": "Other",
+      "name": "auto_name__59",
+      "validation": {
+        "required": false
+      }
+    }
+  ],
+  "heading": "Please tell us your preferred title",
+  "sectionHeading": "Information about you",
+  "url": "title"
+}

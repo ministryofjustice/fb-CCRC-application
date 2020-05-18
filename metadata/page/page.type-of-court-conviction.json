@@ -25,9 +25,10 @@
           "value": "auto_value__11"
         }
       ],
-      "legend": "Select the type of court where you were convicted",
+      "legend": "In what type of court where you were convicted?",
       "name": "auto_name__9"
     }
   ],
+  "sectionHeading": "Information about your case",
   "url": "type-of-court-conviction"
 }

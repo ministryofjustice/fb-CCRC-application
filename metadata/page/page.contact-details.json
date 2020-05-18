@@ -17,6 +17,7 @@
     {
       "_id": "page.contact-details--email.auto_name__34",
       "_type": "email",
+      "hint": "If you do not have an email address just leave this blank",
       "label": "Email address",
       "name": "auto_name__34",
       "validation": {
@@ -26,6 +27,7 @@
     {
       "_id": "page.contact-details--number.auto_name__35",
       "_type": "number",
+      "hint": "If you do not have a phone number just leave this blank",
       "label": "Phone number",
       "name": "auto_name__35",
       "validation": {
@@ -34,6 +36,7 @@
     }
   ],
   "heading": "What are the contact details of the person who is helping you?",
+  "sectionHeading": "Information about your case",
   "show": {
     "identifier": "auto_name__31",
     "negated": true,
