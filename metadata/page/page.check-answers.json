@@ -1,13 +1,6 @@
 {
   "_id": "page.check-answers",
   "_type": "page.summary",
-  "components": [
-    {
-      "_id": "page.check-answers--text.auto_name__61",
-      "_type": "text",
-      "name": "auto_name__61"
-    }
-  ],
   "lede": "Before you submit your application you are advised to save or print this page. If you have provided an email address a copy of your answers will be sent to you",
   "sectionHeading": "Conclusion",
   "url": "check-answers"
