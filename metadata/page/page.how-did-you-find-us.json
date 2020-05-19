@@ -65,6 +65,11 @@
       "legend": "How did you find out about the CCRC?"
     }
   ],
+  "enableSteps": true,
   "sectionHeading": "Information about your case",
+  "steps": [
+    "page.monitoring-question",
+    "page.monitoring-form"
+  ],
   "url": "how-did-you-find-us"
 }

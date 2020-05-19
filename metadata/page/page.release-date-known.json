@@ -33,5 +33,10 @@
   ],
   "heading": "Do you know the applicant's release date?",
   "sectionHeading": "Information about your case",
+  "show": {
+    "identifier": "auto_name__20",
+    "operator": "is",
+    "value": "auto_value__15"
+  },
   "url": "release-date-known"
 }

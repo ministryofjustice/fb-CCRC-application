@@ -1,0 +1,29 @@
+{
+  "_id": "page.monitoring-question",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.monitoring-question--radios.auto_name__61",
+      "_type": "radios",
+      "hint": "We use this part of the service to make sure we are treating everyone equally and fairly.  You do not have to fill out this part of the form if you do not want to.  The people who review your application will not see this part of the form.",
+      "items": [
+        {
+          "_id": "page.monitoring-question--radios.auto_name__61--radio.auto_value__39",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__39"
+        },
+        {
+          "_id": "page.monitoring-question--radios.auto_name__61--radio.auto_value__40",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__40"
+        }
+      ],
+      "legend": "Would you complete the monitoring form?",
+      "name": "auto_name__61"
+    }
+  ],
+  "sectionHeading": "Diversity monitoring",
+  "url": "monitoring-question"
+}

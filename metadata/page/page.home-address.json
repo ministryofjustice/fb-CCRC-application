@@ -11,9 +11,18 @@
   ],
   "sectionHeading": "Information about your case",
   "show": {
-    "identifier": "auto_name__20",
-    "operator": "is",
-    "value": "auto_value__16"
+    "any": [
+      {
+        "identifier": "auto_name__60",
+        "operator": "defined"
+      },
+      {
+        "identifier": "auto_name__20",
+        "operator": "is",
+        "value": "auto_value__16"
+      }
+    ],
+    "conditionsType": "any"
   },
   "url": "home-address"
 }

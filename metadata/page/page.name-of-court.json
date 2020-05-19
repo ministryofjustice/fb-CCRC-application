@@ -10,5 +10,9 @@
     }
   ],
   "sectionHeading": "Information about your case",
+  "show": {
+    "identifier": "auto_name__62",
+    "operator": "defined"
+  },
   "url": "name-of-court"
 }

@@ -1,0 +1,276 @@
+{
+  "_id": "page.monitoring-form",
+  "_type": "page.form",
+  "body": "You do not have to fill out this part of the form if you do not want to. \r\n\r\nThe people who review your application will not see this part of the form.",
+  "components": [
+    {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
+      "_id": "page.monitoring-form--date.auto_name__62",
+      "_type": "date",
+      "label": "Your date of birth",
+      "name": "auto_name__62",
+      "validation": {
+        "required": false
+      }
+    },
+    {
+      "_id": "page.monitoring-form--radios.auto_name__63",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.monitoring-form--radios.auto_name__63--radio.auto_value__39",
+          "_type": "radio",
+          "label": "Male",
+          "value": "auto_value__39"
+        },
+        {
+          "_id": "page.monitoring-form--radios.auto_name__63--radio.auto_value__39--2",
+          "_type": "radio",
+          "label": "Female",
+          "value": "auto_value__39"
+        }
+      ],
+      "legend": "What is your gender identity?",
+      "name": "auto_name__63",
+      "validation": {
+        "required": false
+      }
+    },
+    {
+      "_id": "page.monitoring-form--text.auto_name__64",
+      "_type": "text",
+      "label": "Self-describe",
+      "name": "auto_name__64",
+      "validation": {
+        "required": false
+      }
+    },
+    {
+      "_id": "page.monitoring-form--radios.auto_name__65",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.monitoring-form--radios.auto_name__65--radio.auto_value__39",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__39"
+        },
+        {
+          "_id": "page.monitoring-form--radios.auto_name__65--radio.auto_value__39--2",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__39"
+        }
+      ],
+      "legend": "Do you have a disability?",
+      "name": "auto_name__65",
+      "validation": {
+        "required": false
+      }
+    },
+    {
+      "_id": "page.monitoring-form--section",
+      "_type": "section",
+      "components": [
+        {
+          "_id": "page.monitoring-form--section--radios.auto_name__66",
+          "_type": "radios",
+          "items": [
+            {
+              "_id": "page.monitoring-form--section--radios.auto_name__66--radio.auto_value__39",
+              "_type": "radio",
+              "label": "Indian",
+              "value": "auto_value__39"
+            },
+            {
+              "_id": "page.monitoring-form--section--radios.auto_name__66--radio.auto_value__39--2",
+              "_type": "radio",
+              "label": "Pakistani",
+              "value": "auto_value__39"
+            },
+            {
+              "_id": "page.monitoring-form--section--radios.auto_name__66--radio.auto_value__39--3",
+              "_type": "radio",
+              "label": "Bangladeshi",
+              "value": "auto_value__39"
+            },
+            {
+              "_id": "page.monitoring-form--section--radios.auto_name__66--radio.auto_value__39--4",
+              "_type": "radio",
+              "label": "Chinese",
+              "value": "auto_value__39"
+            },
+            {
+              "_id": "page.monitoring-form--section--radios.auto_name__66--radio.auto_value__39--5",
+              "_type": "radio",
+              "label": "Other",
+              "value": "auto_value__39"
+            }
+          ],
+          "legend": "Are you Asian or Asian British?",
+          "name": "auto_name__66",
+          "validation": {
+            "required": false
+          }
+        },
+        {
+          "_id": "page.monitoring-form--section--radios.auto_name__67",
+          "_type": "radios",
+          "items": [
+            {
+              "_id": "page.monitoring-form--section--radios.auto_name__67--radio.auto_value__39",
+              "_type": "radio",
+              "label": "British",
+              "value": "auto_value__39"
+            },
+            {
+              "_id": "page.monitoring-form--section--radios.auto_name__67--radio.auto_value__39--2",
+              "_type": "radio",
+              "label": "Irish",
+              "value": "auto_value__39"
+            },
+            {
+              "_id": "page.monitoring-form--section--radios.auto_name__67--radio.auto_value__39--3",
+              "_type": "radio",
+              "label": "Gypsy / Traveller",
+              "value": "auto_value__39"
+            },
+            {
+              "_id": "page.monitoring-form--section--radios.auto_name__67--radio.auto_value__39--4",
+              "_type": "radio",
+              "label": "Other",
+              "value": "auto_value__39"
+            }
+          ],
+          "legend": "Are you White?",
+          "name": "auto_name__67",
+          "validation": {
+            "required": false
+          }
+        },
+        {
+          "_id": "page.monitoring-form--section--radios.auto_name__68",
+          "_type": "radios",
+          "items": [
+            {
+              "_id": "page.monitoring-form--section--radios.auto_name__68--radio.auto_value__39",
+              "_type": "radio",
+              "label": "Caribbean",
+              "value": "auto_value__39"
+            },
+            {
+              "_id": "page.monitoring-form--section--radios.auto_name__68--radio.auto_value__39--2",
+              "_type": "radio",
+              "label": "African",
+              "value": "auto_value__39"
+            },
+            {
+              "_id": "page.monitoring-form--section--radios.auto_name__68--radio.auto_value__39--3",
+              "_type": "radio",
+              "label": "Other",
+              "value": "auto_value__39"
+            }
+          ],
+          "legend": "Are you Black African, Black Caribbean or Black British?",
+          "name": "auto_name__68",
+          "validation": {
+            "required": false
+          }
+        },
+        {
+          "_id": "page.monitoring-form--section--radios.auto_name__69",
+          "_type": "radios",
+          "items": [
+            {
+              "_id": "page.monitoring-form--section--radios.auto_name__69--radio.auto_value__39",
+              "_type": "radio",
+              "label": "White and Black Caribbean",
+              "value": "auto_value__39"
+            },
+            {
+              "_id": "page.monitoring-form--section--radios.auto_name__69--radio.auto_value__39--2",
+              "_type": "radio",
+              "label": "White and Black African",
+              "value": "auto_value__39"
+            },
+            {
+              "_id": "page.monitoring-form--section--radios.auto_name__69--radio.auto_value__39--3",
+              "_type": "radio",
+              "label": "White and Asian",
+              "value": "auto_value__39"
+            },
+            {
+              "_id": "page.monitoring-form--section--radios.auto_name__69--radio.auto_value__39--4",
+              "_type": "radio",
+              "label": "Other",
+              "value": "auto_value__39"
+            }
+          ],
+          "legend": "Are you mixed?",
+          "name": "auto_name__69",
+          "validation": {
+            "required": false
+          }
+        },
+        {
+          "_id": "page.monitoring-form--section--radios.auto_name__70",
+          "_type": "radios",
+          "items": [
+            {
+              "_id": "page.monitoring-form--section--radios.auto_name__70--radio.auto_value__39",
+              "_type": "radio",
+              "label": "Arab",
+              "value": "auto_value__39"
+            },
+            {
+              "_id": "page.monitoring-form--section--radios.auto_name__70--radio.auto_value__39--2",
+              "_type": "radio",
+              "label": "Other",
+              "value": "auto_value__39"
+            }
+          ],
+          "legend": "Are you from another ethnic group?",
+          "name": "auto_name__70",
+          "validation": {
+            "required": false
+          }
+        },
+        {
+          "_id": "page.monitoring-form--section--radios.auto_name__71",
+          "_type": "radios",
+          "items": [
+            {
+              "_id": "page.monitoring-form--section--radios.auto_name__71--radio.auto_value__39",
+              "_type": "radio",
+              "label": "Yes",
+              "value": "auto_value__39"
+            },
+            {
+              "_id": "page.monitoring-form--section--radios.auto_name__71--radio.auto_value__39--2",
+              "_type": "radio",
+              "label": "No",
+              "value": "auto_value__39"
+            }
+          ],
+          "legend": "Are you a foreign national?",
+          "name": "auto_name__71",
+          "validation": {
+            "required": false
+          }
+        }
+      ]
+    }
+  ],
+  "heading": "Monitoring Questions",
+  "lede": "We use this part of the service to make sure we are treating everyone equally and fairly.",
+  "sectionHeading": "Diversity monitoring",
+  "show": {
+    "identifier": "auto_name__61",
+    "operator": "is",
+    "value": "auto_value__39"
+  },
+  "url": "monitoring-form"
+}
