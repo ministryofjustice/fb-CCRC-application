@@ -20,6 +20,10 @@
         "identifier": "auto_name__20",
         "operator": "is",
         "value": "auto_value__16"
+      },
+      {
+        "identifier": "auto_name__23",
+        "operator": "defined"
       }
     ],
     "conditionsType": "any"

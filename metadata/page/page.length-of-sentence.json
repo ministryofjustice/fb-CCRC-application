@@ -7,7 +7,10 @@
       "_type": "text",
       "hint": "For example: 18 months",
       "label": "If you were sent to prison, how long was your sentence?",
-      "name": "auto_name__19"
+      "name": "auto_name__19",
+      "validation": {
+        "required": false
+      }
     }
   ],
   "sectionHeading": "Information about your case",

@@ -10,7 +10,7 @@
       "$field": true,
       "_id": "page.monitoring-form--date.auto_name__62",
       "_type": "date",
-      "label": "Your date of birth",
+      "label": "Date of birth",
       "name": "auto_name__62",
       "validation": {
         "required": false
