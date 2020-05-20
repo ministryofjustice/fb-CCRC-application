@@ -4,15 +4,6 @@
   "body": "You do not have to fill out this part of the form if you do not want to. \r\n\r\nThe people who review your application will not see this part of the form.",
   "components": [
     {
-      "_id": "page.monitoring-form--date.auto_name__62",
-      "_type": "date",
-      "label": "What is your date of birth?",
-      "name": "auto_name__62",
-      "validation": {
-        "required": false
-      }
-    },
-    {
       "$component": true,
       "$control": true,
       "$definition": true,
@@ -361,6 +352,15 @@
           }
         }
       ]
+    },
+    {
+      "_id": "page.monitoring-form--date.auto_name__62",
+      "_type": "date",
+      "label": "Date of birth",
+      "name": "auto_name__62",
+      "validation": {
+        "required": false
+      }
     }
   ],
   "heading": "Monitoring Questions",
