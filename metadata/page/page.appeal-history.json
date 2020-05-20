@@ -33,6 +33,7 @@
   "sectionHeading": "Your appeal history",
   "steps": [
     "page.appeal-type",
+    "page.test-page-exceptional",
     "page.how-to-appeal",
     "page.heard-at-court",
     "page.type-of-court",

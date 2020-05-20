@@ -24,8 +24,9 @@
     }
   ],
   "show": {
-    "identifier": "auto_name__3",
-    "operator": "defined"
+    "identifier": "auto_name__2",
+    "operator": "is",
+    "value": "Yes"
   },
   "url": "heard-at-court"
 }

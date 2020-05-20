@@ -4,9 +4,18 @@
   "body": "If you were convicted in a Crown Court you can find information about appealing direct to the court in a booklet called \"Appealing a Conviction or Sentence to the Court of Appeal\". \r\n\r\nYou can get the booklet, with the forms you need to appeal, from the Criminal Appeals Office by calling 020 7947 6011.\r\n\r\nYou can also get the form and booklet, and find information about appealing in Crown Court cases and magistrates' court cases, on [GOV.UK](https://www.gov.uk/appeal-against-sentence-conviction)\r\n\r\nThe charity [Justice](https://justice.org.uk/our-work/publications/how-to-appeal/) also provides a helpful booklet on appeals in Crown Court cases.",
   "heading": "How to appeal",
   "show": {
-    "identifier": "auto_name__2",
-    "operator": "is",
-    "value": "no"
+    "all": [
+      {
+        "identifier": "auto_name__2",
+        "operator": "is",
+        "value": "no"
+      },
+      {
+        "identifier": "auto_name__76",
+        "operator": "is",
+        "value": "auto_value__47"
+      }
+    ]
   },
   "url": "how-to-appeal"
 }

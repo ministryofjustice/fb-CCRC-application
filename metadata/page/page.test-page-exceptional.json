@@ -1,0 +1,44 @@
+{
+  "_id": "page.test-page-exceptional",
+  "_type": "page.form",
+  "body": "For example - because you pleaded guilty in the magistrates' court",
+  "components": [
+    {
+      "_id": "page.test-page-exceptional--radios.auto_name__76",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.test-page-exceptional--radios.auto_name__76--radio.auto_value__46",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__46"
+        },
+        {
+          "_id": "page.test-page-exceptional--radios.auto_name__76--radio.auto_value__47",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__47"
+        }
+      ],
+      "legend": "Select one of the options below",
+      "name": "auto_name__76"
+    },
+    {
+      "_id": "page.test-page-exceptional--textarea.auto_name__77",
+      "_type": "textarea",
+      "label": "If you answered Yes above please describe the circumstances",
+      "name": "auto_name__77",
+      "validation": {
+        "required": false
+      }
+    }
+  ],
+  "heading": "Exceptional circumstances",
+  "lede": "Do your circumstances mean you are not allowed to appeal?",
+  "show": {
+    "identifier": "auto_name__2",
+    "operator": "is",
+    "value": "no"
+  },
+  "url": "exceptional-circumstances"
+}

@@ -6,7 +6,7 @@
     {
       "_id": "page.monitoring-form--date.auto_name__62",
       "_type": "date",
-      "label": "Date of birth",
+      "label": "What is your date of birth?",
       "name": "auto_name__62",
       "validation": {
         "required": false
