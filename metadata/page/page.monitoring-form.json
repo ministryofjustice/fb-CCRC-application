@@ -354,8 +354,8 @@
       ]
     },
     {
-      "_id": "page.monitoring-form--date.auto_name__62",
-      "_type": "date",
+      "_id": "page.monitoring-form--text.auto_name__62",
+      "_type": "text",
       "label": "Date of birth",
       "name": "auto_name__62",
       "validation": {
