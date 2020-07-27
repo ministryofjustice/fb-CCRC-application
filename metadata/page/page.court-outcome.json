@@ -9,13 +9,13 @@
         {
           "_id": "page.court-outcome--radios.auto_name__16--radio.auto_value__12",
           "_type": "radio",
-          "label": "guilty",
+          "label": "Guilty",
           "value": "auto_value__12"
         },
         {
           "_id": "page.court-outcome--radios.auto_name__16--radio.auto_value__14",
           "_type": "radio",
-          "label": "not guilty",
+          "label": "Not guilty",
           "value": "auto_value__14"
         }
       ],
