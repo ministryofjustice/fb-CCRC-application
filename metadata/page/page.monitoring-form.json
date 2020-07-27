@@ -366,10 +366,6 @@
   "heading": "Monitoring Questions",
   "lede": "We use this part of the service to make sure we are treating everyone equally and fairly.",
   "sectionHeading": "Diversity monitoring",
-  "show": {
-    "identifier": "auto_name__61",
-    "operator": "is",
-    "value": "auto_value__39"
-  },
+  "show": false,
   "url": "monitoring-form"
 }

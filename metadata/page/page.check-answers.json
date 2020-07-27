@@ -3,9 +3,6 @@
   "_type": "page.summary",
   "lede": "Before you submit your application you are advised to save or print this page. If you have provided an email address a copy of your answers will be sent to you",
   "sectionHeading": "Conclusion",
-  "show": {
-    "identifier": "auto_name__61",
-    "operator": "defined"
-  },
+  "show": true,
   "url": "check-answers"
 }
