@@ -1,0 +1,76 @@
+{
+  "_id": "page.appeal-history",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.appeal-history--radios.auto_name__2",
+      "_type": "radios",
+      "items": [
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.appeal-history--radios.auto_name__2--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "Yes"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.appeal-history--radios.auto_name__2--radio.auto_value__1--2",
+          "_type": "radio",
+          "label": "No",
+          "value": "no"
+        }
+      ],
+      "legend": "Have you asked the court for an appeal?",
+      "name": "auto_name__2"
+    }
+  ],
+  "enableSteps": true,
+  "sectionHeading": "Your appeal history",
+  "steps": [
+    "page.appeal-type",
+    "page.test-page-exceptional",
+    "page.how-to-appeal",
+    "page.heard-at-court",
+    "page.type-of-court",
+    "page.appeal-number",
+    "page.name-of-court",
+    "page.sent-from-mags",
+    "page.type-of-court-conviction",
+    "page.case-number",
+    "page.date-convicted",
+    "page.date-sentenced",
+    "page.sentenced-with-others",
+    "page.names-of-others",
+    "page.police-force",
+    "page.court-outcome",
+    "page.offences",
+    "page.review-conviction",
+    "page.type-of-sentence",
+    "page.length-of-sentence",
+    "page.review-sentence",
+    "page.in-prison",
+    "page.prison-number",
+    "page.prison-name",
+    "page.release-date-known",
+    "page.release-date",
+    "page.home-address",
+    "page.phone-number",
+    "page.email-address",
+    "page.applied-before",
+    "page.special-help",
+    "page.reading-writing",
+    "page.case-english",
+    "page.language-preference",
+    "page.what-went-wrong",
+    "page.helping-you",
+    "page.contact-details",
+    "page.who-to-contact",
+    "page.other-solicitors"
+  ],
+  "url": "appeal-history"
+}
