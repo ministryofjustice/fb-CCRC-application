@@ -25,6 +25,6 @@
     }
   ],
   "sectionHeading": "Diversity monitoring",
-  "show": false,
+  "show": true,
   "url": "monitoring-question"
 }
