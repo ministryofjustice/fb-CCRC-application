@@ -5,6 +5,12 @@
     {
       "_id": "page.phone-number--number.auto_name__26",
       "_type": "number",
+      "errors": {
+        "required": {
+          "any": "Please ensure you have entered a phone number and have not included any spaces"
+        }
+      },
+      "hint": "Please enter your phone number with no spaces e.g. 07700900000",
       "label": "What is your phone number?",
       "name": "auto_name__26"
     }
