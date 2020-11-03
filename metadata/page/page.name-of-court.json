@@ -11,18 +11,23 @@
   ],
   "sectionHeading": "Information about your case",
   "show": {
-    "any": [
+    "conditionsType": "exactly",
+    "exactly": [
       {
         "identifier": "auto_name__6",
         "operator": "defined"
+      },
+      {
+        "identifier": "auto_name__4",
+        "operator": "is",
+        "value": "auto_value__4"
       },
       {
         "identifier": "auto_name__76",
         "operator": "is",
         "value": "auto_value__46"
       }
-    ],
-    "conditionsType": "any"
+    ]
   },
   "url": "name-of-court"
 }
