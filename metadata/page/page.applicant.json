@@ -8,12 +8,18 @@
       "hint": "If you are a representative please treat all references to \"You\" or \"Your\" as referring to the applicant e.g. Your date of birth refers to the applicant's date of birth",
       "items": [
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.applicant--radios.auto_name__41--radio.auto_value__28",
           "_type": "radio",
           "label": "I am the applicant",
           "value": "auto_value__28"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.applicant--radios.auto_name__41--radio.auto_value__29",
           "_type": "radio",
           "label": "I am a representative",

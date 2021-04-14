@@ -7,7 +7,7 @@
       "_type": "email",
       "hint": "If you do not have an email address just press \"Continue\"",
       "label": "What is your email address?",
-      "name": "auto_name__11",
+      "name": "email-address",
       "validation": {
         "required": false
       }
