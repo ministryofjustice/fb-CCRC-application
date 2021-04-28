@@ -38,7 +38,10 @@
         }
       ],
       "legend": "Select from the list",
-      "name": "auto_name__58"
+      "name": "auto_name__58",
+      "validation": {
+        "required": false
+      }
     },
     {
       "_id": "page.title--text.auto_name__59",
