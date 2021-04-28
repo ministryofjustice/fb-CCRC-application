@@ -6,7 +6,7 @@
       "_id": "page.release-date--date.auto_name__60",
       "_type": "date",
       "hint": "For example 20 / 12 / 2022",
-      "label": "When is the applicant due to be released?",
+      "label": "When are you due to be released?",
       "name": "auto_name__60"
     }
   ],
