@@ -1,0 +1,34 @@
+{
+  "_id": "page.representative-name",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.representative-name--text.auto_name__11",
+      "_type": "text",
+      "label": "First name",
+      "name": "auto_name__11"
+    },
+    {
+      "_id": "page.representative-name--text.auto_name__72",
+      "_type": "text",
+      "label": "Middle name(s)",
+      "name": "auto_name__72",
+      "validation": {
+        "required": false
+      }
+    },
+    {
+      "_id": "page.representative-name--text.auto_name__73",
+      "_type": "text",
+      "label": "Last name",
+      "name": "auto_name__73"
+    }
+  ],
+  "heading": "Representative's name",
+  "show": {
+    "identifier": "auto_name__41",
+    "operator": "is",
+    "value": "auto_value__29"
+  },
+  "url": "representative-name"
+}

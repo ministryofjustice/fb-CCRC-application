@@ -6,6 +6,7 @@
   "lede": "If you have already lost your appeal and still think there is something wrong with your conviction or sentence you can apply to the CCRC.",
   "steps": [
     "page.applicant",
+    "page.representative-name",
     "page.your-name",
     "page.title",
     "page.date-of-birth--2",
