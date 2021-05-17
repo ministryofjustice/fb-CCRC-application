@@ -6,7 +6,10 @@
       "_id": "page.date-sentenced--date.auto_name__47",
       "_type": "date",
       "label": "On what date were you sentenced?",
-      "name": "auto_name__47"
+      "name": "auto_name__47",
+      "validation": {
+        "required": false
+      }
     }
   ],
   "sectionHeading": "Information about your case",

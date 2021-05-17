@@ -5,8 +5,12 @@
     {
       "_id": "page.sent-from-mags--text.auto_name__8",
       "_type": "text",
+      "hint": "If you were convicted in the magistrates' court leave this question blank and press continue",
       "label": "If you were convicted at a Crown Court, which magistrates' court sent you there?",
-      "name": "auto_name__8"
+      "name": "auto_name__8",
+      "validation": {
+        "required": false
+      }
     }
   ],
   "sectionHeading": "Information about your case",

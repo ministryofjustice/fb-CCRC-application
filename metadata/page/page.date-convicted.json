@@ -6,7 +6,10 @@
       "_id": "page.date-convicted--date.auto_name__45",
       "_type": "date",
       "label": "On what date were you convicted?",
-      "name": "auto_name__45"
+      "name": "auto_name__45",
+      "validation": {
+        "required": false
+      }
     }
   ],
   "sectionHeading": "Information about your case",

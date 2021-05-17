@@ -10,9 +10,12 @@
           "any": "Please ensure you have entered a phone number and have not included any spaces"
         }
       },
-      "hint": "Please enter your phone number with no spaces e.g. 07700900000",
+      "hint": "Please enter your phone number with no spaces e.g. 07700900000. If you do not have a phone number just press continue.",
       "label": "What is your phone number?",
-      "name": "auto_name__26"
+      "name": "auto_name__26",
+      "validation": {
+        "required": false
+      }
     }
   ],
   "sectionHeading": "Information about your case",
