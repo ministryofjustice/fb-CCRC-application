@@ -8,7 +8,7 @@
       "label": "On what date were you sentenced?",
       "name": "auto_name__47",
       "validation": {
-        "required": false
+        "required": true
       }
     }
   ],

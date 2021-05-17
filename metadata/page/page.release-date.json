@@ -9,7 +9,7 @@
       "label": "When are you due to be released?",
       "name": "auto_name__60",
       "validation": {
-        "required": false
+        "required": true
       }
     }
   ],
