@@ -8,7 +8,7 @@
       "label": "Date of birth",
       "name": "auto_name__43",
       "validation": {
-        "required": false
+        "required": true
       }
     }
   ],
