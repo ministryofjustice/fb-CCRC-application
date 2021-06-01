@@ -6,7 +6,7 @@
       "_id": "page.date-of-birth--2--date.auto_name__43",
       "_type": "date",
       "label": "Date of birth",
-      "name": "auto_name__43",
+      "name": "date_birth__1",
       "validation": {
         "required": false
       }
