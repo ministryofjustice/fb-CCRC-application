@@ -29,7 +29,7 @@
       "legend": "Who is applying?",
       "name": "auto_name__41",
       "validation": {
-        "required": false
+        "required": true
       }
     }
   ],
