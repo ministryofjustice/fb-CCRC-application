@@ -3,12 +3,13 @@
   "_type": "page.singlequestion",
   "components": [
     {
-      "_id": "page.date-sentenced--date.auto_name__47",
-      "_type": "date",
+      "_id": "page.date-sentenced--text.auto_name__47",
+      "_type": "text",
+      "hint": "For example 12 November 2007",
       "label": "On what date were you sentenced?",
       "name": "auto_name__47",
       "validation": {
-        "required": true
+        "required": false
       }
     }
   ],

@@ -3,13 +3,13 @@
   "_type": "page.singlequestion",
   "components": [
     {
-      "_id": "page.release-date--date.auto_name__60",
-      "_type": "date",
-      "hint": "For example 20 / 12 / 2022",
+      "_id": "page.release-date--text.auto_name__60",
+      "_type": "text",
+      "hint": "For example 12 November 2021",
       "label": "When are you due to be released?",
       "name": "auto_name__60",
       "validation": {
-        "required": true
+        "required": false
       }
     }
   ],
