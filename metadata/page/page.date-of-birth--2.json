@@ -3,10 +3,9 @@
   "_type": "page.singlequestion",
   "components": [
     {
-      "_id": "page.date-of-birth--2--text.auto_name__43",
-      "_type": "text",
-      "hint": "For example 12 December 1980",
-      "label": "Date of birth",
+      "_id": "page.date-of-birth--2--date.auto_name__43",
+      "_type": "date",
+      "legend": "Date of birth ",
       "name": "auto_name__43",
       "validation": {
         "required": false
