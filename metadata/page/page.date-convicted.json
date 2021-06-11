@@ -3,10 +3,9 @@
   "_type": "page.singlequestion",
   "components": [
     {
-      "_id": "page.date-convicted--text.auto_name__45",
-      "_type": "text",
-      "hint": "For example 12 November 2007",
-      "label": "On what date were you convicted?",
+      "_id": "page.date-convicted--date.auto_name__45",
+      "_type": "date",
+      "legend": "On what date were you convicted?",
       "name": "auto_name__45",
       "validation": {
         "required": false
