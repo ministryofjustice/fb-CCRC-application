@@ -8,5 +8,6 @@
   "name": "Apply to have your criminal case reviewed",
   "pdfHeading": "CCRC Application",
   "phase": "alpha",
-  "phaseText": "Alpha"
+  "phaseText": "Alpha",
+  "serviceEmailAddress": "overtime@ccrc.gov.uk"
 }
