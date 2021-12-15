@@ -49,9 +49,9 @@
       "legend": "Which of the following best describes your White background? ",
       "name": "auto_name__68",
       "show": {
-        "identifier": "auto_name__67",
+        "identifier": "grp",
         "operator": "is",
-        "value": "auto_value__39"
+        "value": "grp-w"
       }
     },
     {
@@ -101,9 +101,9 @@
       "legend": "Which of the following best describes your Mixed or Multiple ethnic groups background?",
       "name": "auto_name__69",
       "show": {
-        "identifier": "auto_name__67",
+        "identifier": "grp",
         "operator": "is",
-        "value": "auto_value__39"
+        "value": "grp-m"
       }
     },
     {
@@ -159,9 +159,9 @@
       "legend": "Which of the following best describes your Asian or Asian British background? ",
       "name": "auto_name__70",
       "show": {
-        "identifier": "auto_name__67",
+        "identifier": "grp",
         "operator": "is",
-        "value": "auto_value__39"
+        "value": "grp-a"
       }
     },
     {
@@ -203,7 +203,12 @@
         }
       ],
       "legend": "Which of the following best describes your Black, African, Caribbean or Black British background?",
-      "name": "auto_name__71"
+      "name": "auto_name__71",
+      "show": {
+        "identifier": "grp",
+        "operator": "is",
+        "value": "grp-b"
+      }
     },
     {
       "_id": "page.ethnicity-detail--radios.auto_name__74",
@@ -238,15 +243,20 @@
         }
       ],
       "legend": "Which of the following best describes your background? ",
-      "name": "auto_name__74"
+      "name": "auto_name__74",
+      "show": {
+        "identifier": "grp",
+        "operator": "is",
+        "value": "grp-o"
+      }
     }
   ],
   "heading": "Your ethnic background",
   "show": {
-    "identifier": "auto_name__67",
+    "identifier": "grp",
     "negated": true,
     "operator": "is",
-    "value": "auto_value__39"
+    "value": "grp-n"
   },
   "url": "ethnicity-detail"
 }

@@ -39,41 +39,41 @@
           "_id": "page.ethnicity--radios.auto_name__67--radio.auto_value__39",
           "_type": "radio",
           "label": "White",
-          "value": "auto_value__39"
+          "value": "grp-w"
         },
         {
           "_id": "page.ethnicity--radios.auto_name__67--radio.auto_value__39--2",
           "_type": "radio",
           "label": "Mixed or multiple ethnic groups",
-          "value": "auto_value__39"
+          "value": "grp-m"
         },
         {
           "_id": "page.ethnicity--radios.auto_name__67--radio.auto_value__39--3",
           "_type": "radio",
           "label": "Asian or Asian British",
-          "value": "auto_value__39"
+          "value": "grp-a"
         },
         {
           "_id": "page.ethnicity--radios.auto_name__67--radio.auto_value__39--4",
           "_type": "radio",
           "label": "Black, African, Caribbean or Black British",
-          "value": "auto_value__39"
+          "value": "grp-b"
         },
         {
           "_id": "page.ethnicity--radios.auto_name__67--radio.auto_value__39--5",
           "_type": "radio",
           "label": "Other ethnic group",
-          "value": "auto_value__39"
+          "value": "grp-o"
         },
         {
           "_id": "page.ethnicity--radios.auto_name__67--radio.auto_value__39--6",
           "_type": "radio",
           "label": "Prefer not to say",
-          "value": "auto_value__39"
+          "value": "grp-n"
         }
       ],
       "legend": "What is your ethnic group?",
-      "name": "auto_name__67"
+      "name": "grp"
     }
   ],
   "heading": "Your nationality and ethnicity",
