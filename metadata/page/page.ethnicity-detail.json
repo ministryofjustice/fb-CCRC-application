@@ -16,13 +16,13 @@
           "_id": "page.ethnicity-detail--radios.auto_name__68--radio.auto_value__39--2",
           "_type": "radio",
           "label": "Irish",
-          "value": "auto_value__39"
+          "value": "auto_value__39--2"
         },
         {
           "_id": "page.ethnicity-detail--radios.auto_name__68--radio.auto_value__39--3",
           "_type": "radio",
           "label": "Gipsy or Irish Traveller",
-          "value": "auto_value__39"
+          "value": "auto_value__39--3"
         },
         {
           "_id": "page.ethnicity-detail--radios.auto_name__68--radio.auto_value__39--4",
@@ -37,13 +37,13 @@
             }
           },
           "label": "Any other White background",
-          "value": "auto_value__39"
+          "value": "auto_value__39--4"
         },
         {
           "_id": "page.ethnicity-detail--radios.auto_name__68--radio.auto_value__39--5",
           "_type": "radio",
           "label": "Prefer not to say",
-          "value": "auto_value__39"
+          "value": "auto_value__39--5"
         }
       ],
       "legend": "Which of the following best describes your White background? ",
@@ -68,13 +68,13 @@
           "_id": "page.ethnicity-detail--radios.auto_name__69--radio.auto_value__39--2",
           "_type": "radio",
           "label": "White and Black African",
-          "value": "auto_value__39"
+          "value": "auto_value__39--2"
         },
         {
           "_id": "page.ethnicity-detail--radios.auto_name__69--radio.auto_value__39--3",
           "_type": "radio",
           "label": "White and Asian",
-          "value": "auto_value__39"
+          "value": "auto_value__39--3"
         },
         {
           "_id": "page.ethnicity-detail--radios.auto_name__69--radio.auto_value__39--4",
@@ -89,13 +89,13 @@
             }
           },
           "label": "Any other Mixed or Multiple ethnic background",
-          "value": "auto_value__39"
+          "value": "auto_value__39--4"
         },
         {
           "_id": "page.ethnicity-detail--radios.auto_name__69--radio.auto_value__39--5",
           "_type": "radio",
           "label": "Prefer not to say",
-          "value": "auto_value__39"
+          "value": "auto_value__39--5"
         }
       ],
       "legend": "Which of the following best describes your Mixed or Multiple ethnic groups background?",
@@ -120,19 +120,19 @@
           "_id": "page.ethnicity-detail--radios.auto_name__70--radio.auto_value__39--2",
           "_type": "radio",
           "label": "Pakistani",
-          "value": "auto_value__39"
+          "value": "auto_value__39--2"
         },
         {
           "_id": "page.ethnicity-detail--radios.auto_name__70--radio.auto_value__39--3",
           "_type": "radio",
           "label": "Bangladeshi",
-          "value": "auto_value__39"
+          "value": "auto_value__39--3"
         },
         {
           "_id": "page.ethnicity-detail--radios.auto_name__70--radio.auto_value__39--4",
           "_type": "radio",
           "label": "Chinese",
-          "value": "auto_value__39"
+          "value": "auto_value__39--4"
         },
         {
           "_id": "page.ethnicity-detail--radios.auto_name__70--radio.auto_value__39--5",
@@ -147,13 +147,13 @@
             }
           },
           "label": "Any other Asian background",
-          "value": "auto_value__39"
+          "value": "auto_value__39--5"
         },
         {
           "_id": "page.ethnicity-detail--radios.auto_name__70--radio.auto_value__39--6",
           "_type": "radio",
           "label": "Prefer not to say",
-          "value": "auto_value__39"
+          "value": "auto_value__39--6"
         }
       ],
       "legend": "Which of the following best describes your Asian or Asian British background? ",
@@ -178,7 +178,7 @@
           "_id": "page.ethnicity-detail--radios.auto_name__71--radio.auto_value__39--2",
           "_type": "radio",
           "label": "Caribbean",
-          "value": "auto_value__39"
+          "value": "auto_value__39--2"
         },
         {
           "_id": "page.ethnicity-detail--radios.auto_name__71--radio.auto_value__39--3",
@@ -193,13 +193,13 @@
             }
           },
           "label": "Any other Black, African or Caribbean background",
-          "value": "auto_value__39"
+          "value": "auto_value__39--3"
         },
         {
           "_id": "page.ethnicity-detail--radios.auto_name__71--radio.auto_value__39--4",
           "_type": "radio",
           "label": "Prefer not to say",
-          "value": "auto_value__39"
+          "value": "auto_value__39--4"
         }
       ],
       "legend": "Which of the following best describes your Black, African, Caribbean or Black British background?",
@@ -233,13 +233,13 @@
             }
           },
           "label": "Any other ethnic group",
-          "value": "auto_value__39"
+          "value": "auto_value__39--2"
         },
         {
           "_id": "page.ethnicity-detail--radios.auto_name__74--radio.auto_value__39--3",
           "_type": "radio",
           "label": "Prefer not to say",
-          "value": "auto_value__39"
+          "value": "auto_value__39--3"
         }
       ],
       "legend": "Which of the following best describes your background? ",
