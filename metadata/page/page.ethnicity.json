@@ -7,22 +7,22 @@
       "_type": "radios",
       "items": [
         {
-          "_id": "page.ethnicity--radios.auto_name__62--radio.auto_value__39",
+          "_id": "page.ethnicity--radios.auto_name__62--radio.auto_value__391",
           "_type": "radio",
           "label": "Yes",
-          "value": "auto_value__39"
+          "value": "auto_value__391"
         },
         {
-          "_id": "page.ethnicity--radios.auto_name__62--radio.auto_value__39--2",
+          "_id": "page.ethnicity--radios.auto_name__62--radio.auto_value__392",
           "_type": "radio",
           "label": "No",
-          "value": "auto_value__39"
+          "value": "auto_value__392"
         },
         {
-          "_id": "page.ethnicity--radios.auto_name__62--radio.auto_value__39--3",
+          "_id": "page.ethnicity--radios.auto_name__62--radio.auto_value__393",
           "_type": "radio",
           "label": "Prefer not to say",
-          "value": "auto_value__39"
+          "value": "auto_value__393"
         }
       ],
       "legend": "Are you a foreign national? ",
