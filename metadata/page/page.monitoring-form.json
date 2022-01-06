@@ -14,25 +14,25 @@
           "$component": true,
           "$definition": true,
           "$option": true,
-          "_id": "page.monitoring-form--radios.auto_name__63--radio.auto_value__39",
+          "_id": "page.monitoring-form--radios.auto_name__63--radio.auto_value__491",
           "_type": "radio",
           "label": "Male",
-          "value": "auto_value__39"
+          "value": "auto_value__491"
         },
         {
           "$component": true,
           "$definition": true,
           "$option": true,
-          "_id": "page.monitoring-form--radios.auto_name__63--radio.auto_value__39--2",
+          "_id": "page.monitoring-form--radios.auto_name__63--radio.auto_value__492",
           "_type": "radio",
           "label": "Female",
-          "value": "auto_value__39"
+          "value": "auto_value__492"
         },
         {
           "$component": true,
           "$definition": true,
           "$option": true,
-          "_id": "page.monitoring-form--radios.auto_name__63--radio.auto_value__39--3",
+          "_id": "page.monitoring-form--radios.auto_name__63--radio.auto_value__493",
           "_type": "radio",
           "conditionalComponent": {
             "$component": true,
@@ -48,16 +48,16 @@
             }
           },
           "label": "Self-describe",
-          "value": "auto_value__39"
+          "value": "auto_value__493"
         },
         {
           "$component": true,
           "$definition": true,
           "$option": true,
-          "_id": "page.monitoring-form--radios.auto_name__63--radio.auto_value__39--4",
+          "_id": "page.monitoring-form--radios.auto_name__63--radio.auto_value__494",
           "_type": "radio",
           "label": "Prefer not to say",
-          "value": "auto_value__39"
+          "value": "auto_value__494"
         }
       ],
       "legend": "What is your gender identity?",
@@ -77,28 +77,28 @@
           "$component": true,
           "$definition": true,
           "$option": true,
-          "_id": "page.monitoring-form--radios.auto_name__65--radio.auto_value__39",
+          "_id": "page.monitoring-form--radios.auto_name__65--radio.auto_value__591",
           "_type": "radio",
           "label": "Yes",
-          "value": "auto_value__39"
+          "value": "auto_value__591"
         },
         {
           "$component": true,
           "$definition": true,
           "$option": true,
-          "_id": "page.monitoring-form--radios.auto_name__65--radio.auto_value__39--2",
+          "_id": "page.monitoring-form--radios.auto_name__65--radio.auto_value__592",
           "_type": "radio",
           "label": "No",
-          "value": "auto_value__39"
+          "value": "auto_value__592"
         },
         {
           "$component": true,
           "$definition": true,
           "$option": true,
-          "_id": "page.monitoring-form--radios.auto_name__65--radio.auto_value__39--3",
+          "_id": "page.monitoring-form--radios.auto_name__65--radio.auto_value__593",
           "_type": "radio",
           "label": "Prefer not to say",
-          "value": "auto_value__39"
+          "value": "auto_value__593"
         }
       ],
       "legend": "Do you have a disability?",
